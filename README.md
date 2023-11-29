@@ -1,6 +1,7 @@
 # EfficientNet on [tinygrad](https://github.com/tinygrad/tinygrad) + WebGL
 
-This is a WebGL port of EfficientNet using [tinygrad](https://github.com/tinygrad/tinygrad). WebGL isn't yet in master, but we have a [PR](https://github.com/tinygrad/tinygrad/pull/2461) up for it.
+This is a WebGL port of EfficientNet using [tinygrad](https://github.com/tinygrad/tinygrad). WebGL isn't yet in master, but we have a [PR](https://github.com/tinygrad/tinygrad/pull/2461) up for it.<br>
+Try it [here](https://softwiredtech.github.io/efficientnet-tinygrad-webgl/)!
 
 ## GPGPU using the graphics pipeline
 
